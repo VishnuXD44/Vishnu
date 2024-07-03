@@ -1,0 +1,25 @@
+#Bgimg{
+    background-image: url('mushashi.jpg');
+    height: 200px;
+    width: 100;
+    background-repeat: no-repeat;
+    margin-left: 75vh;
+    margin-top: 30vh;
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin:0;
+    padding: 8px;
+    margin-left: 43%;
+}
+.navbar li{
+    float: left;
+}
+
+.navbar li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+}

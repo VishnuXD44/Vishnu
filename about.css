@@ -1,0 +1,12 @@
+#Aboutbg{
+    background-image: url('mushashi2.jpg');
+    height: 250px;
+    width: 100;
+    background-repeat: no-repeat;
+    margin-left: 20vh;
+    margin-top: 20vh;
+}
+
+#actualpara{
+    text-align: center;
+}
